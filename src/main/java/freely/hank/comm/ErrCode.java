@@ -1,9 +1,7 @@
-package block.so.bscdata.comm;
+package freely.hank.comm;
 
 /**
- * 
- * @author Hank Lee
- *
+ * 错误码
  */
 public class ErrCode {
     public static final int FAIL = -1;

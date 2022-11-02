@@ -1,4 +1,4 @@
-package block.so.bscdata.comm;
+package freely.hank.comm;
 
 import java.io.Serializable;
 
@@ -6,10 +6,7 @@ import lombok.Getter;
 import lombok.Setter;
 
 /**
- * 
- * @author Hank Lee
- *
- * @param <T>
+ * API返回数据
  */
 @Setter
 @Getter
